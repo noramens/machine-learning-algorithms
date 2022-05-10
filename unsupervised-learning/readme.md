@@ -1,8 +1,8 @@
-# Unsupervised Machine Learning
+## Unsupervised Machine Learning
 
 Unsupervised Machine Learning uses labelled input data and allows the algorithm to act on that information without guidance.
 
-## MAJOR TYPES OF UNSUPERVISED MACHINE LEARNING
+### Major types of unsupervised machine learning
 
 - Clustering:
   This is used for analysing and grouping data which does not include pre-labelled class or even a class attribute at all.
